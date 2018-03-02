@@ -1,0 +1,15 @@
+<layer>
+  <name>foi_vlaga</name>
+  <id>LayerInfoImpl-f2c776e:161db828036:-7700</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-f2c776e:161db828036:-5d2d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-f2c776e:161db828036:-7701</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

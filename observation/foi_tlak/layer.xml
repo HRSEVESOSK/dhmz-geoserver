@@ -1,0 +1,15 @@
+<layer>
+  <name>foi_tlak</name>
+  <id>LayerInfoImpl-f2c776e:161db828036:-7702</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-f2c776e:161db828036:-5d2f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-f2c776e:161db828036:-7703</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

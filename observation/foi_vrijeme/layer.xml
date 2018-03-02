@@ -1,0 +1,15 @@
+<layer>
+  <name>foi_vrijeme</name>
+  <id>LayerInfoImpl-f2c776e:161db828036:-76fe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1df427f3:161ddde7bf2:-61e1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-f2c776e:161db828036:-76ff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

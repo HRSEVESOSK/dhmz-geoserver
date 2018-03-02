@@ -1,0 +1,15 @@
+<layer>
+  <name>foi_vjetar_brzina</name>
+  <id>LayerInfoImpl-f2c776e:161db828036:-76fa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-f2c776e:161db828036:-5d2e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-f2c776e:161db828036:-76fb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

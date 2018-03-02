@@ -1,0 +1,15 @@
+<layer>
+  <name>ef_grad</name>
+  <id>LayerInfoImpl-f2c776e:161db828036:-6da7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-f2c776e:161db828036:-6fa1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-f2c776e:161db828036:-6da8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
